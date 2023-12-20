@@ -50,5 +50,16 @@ border: solid;
   background-color: white; /* Change background to white on hover */
   color: black; /* Change text color to black on hover */
 }
+.puppy-quote {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 50px;
+}
 
-
+.pebbles {
+  border-radius: 50%;
+  max-width: 100px;
+  display: block;
+}
