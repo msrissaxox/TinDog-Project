@@ -22,11 +22,13 @@
   border-radius: 0.75rem;
 }
 #title {
-  height: 75vh;
+border: solid;
+
 }
 #title img {
- max-width: 100%;
- height: auto;
+  height: 575px;
+  width: 330px;
+  margin-top: 50px;
 }
 
 
