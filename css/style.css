@@ -30,10 +30,26 @@ border: solid;
 
 }
 #title img {
-  height: 575px;
-  width: 330px;
+  height: 594px;
+  width: 337px;
   margin-top: 50px;
 }
 
+.flex-top {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+/* Target the specific button class for customization */
+.btn-outline-secondary.btn-lg.px-4 {
+  color: white; /* Set initial text color to white */
+  border-color: white; /* Set initial border color to white */
+}
+
+/* Apply hover effects */
+.btn-outline-secondary.btn-lg.px-4:hover {
+  background-color: white; /* Change background to white on hover */
+  color: black; /* Change text color to black on hover */
+}
 
 
