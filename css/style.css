@@ -62,4 +62,12 @@ border: solid;
   border-radius: 50%;
   max-width: 100px;
   display: block;
+  margin-top: 5px;
+  margin-bottom: 2px;
+}
+.flex-gallery {
+  
+}
+ .flex-gallery img {
+  height: 30px;
 }
