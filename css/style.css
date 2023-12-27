@@ -19,6 +19,7 @@
     background-position: 0% 50%;
   }
 }
+
 .top-section {
   margin-bottom: 0;
   padding: 0;
@@ -102,7 +103,7 @@ div p {
   font-size: 3.5em;
 }
 
-
-
-
+.footer {
+  border: solid;
+}
 
