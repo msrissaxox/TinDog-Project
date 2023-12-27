@@ -23,11 +23,11 @@ body {
     background-position: 0% 50%;
   }
 }
-
 .top-section {
   margin-bottom: 0;
   padding: 0;
 }
+
 .icon-square {
   width: 3rem;
   height: 3rem;
@@ -74,6 +74,7 @@ div p {
   text-align: left;
 }
 
+
 .puppy-quote {
   display: flex;
   flex-direction: column;
@@ -110,6 +111,4 @@ div p {
 
 .footer-end .container {
 margin-bottom: 0;
-
-}
-
+text-align: left;
