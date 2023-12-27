@@ -37,6 +37,7 @@ body {
 #title img {
   height: 594px;
   width: 337px;
+  padding-top: 5px;
 }
 .image-flex {
   display: flex;
@@ -108,7 +109,7 @@ div p {
 }
 
 .footer-end .container {
-
+margin-bottom: 0;
 
 }
 
