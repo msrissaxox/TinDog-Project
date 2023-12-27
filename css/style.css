@@ -19,19 +19,28 @@
     background-position: 0% 50%;
   }
 }
-
+.top-section {
+  margin-bottom: 0;
+  padding: 0;
+}
 .icon-square {
   width: 3rem;
   height: 3rem;
   border-radius: 0.75rem;
 }
 #title {
-border: solid;
+
 
 }
 #title img {
   height: 594px;
   width: 337px;
+}
+.image-flex {
+  display: flex;
+  height: 100%;
+  justify-content: flex-end;
+  align-items: flex-end;
 }
 
 .flex-top {
