@@ -1,7 +1,11 @@
 * {
   box-sizing: border-box;
 }
+/*This closes the space on the bottom under footer.*/
 
+body {
+  margin-bottom: -50px;
+}
 .gradient-background {
   background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
   background-size: 180% 180%;
@@ -103,8 +107,8 @@ div p {
   font-size: 3.5em;
 }
 
-.footer {
-  border: solid;
-  background-color: ;
+.footer-end .container {
+
+
 }
 
