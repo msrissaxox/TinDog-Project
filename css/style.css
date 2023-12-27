@@ -28,10 +28,7 @@
   height: 3rem;
   border-radius: 0.75rem;
 }
-#title {
 
-
-}
 #title img {
   height: 594px;
   width: 337px;
@@ -75,8 +72,10 @@
   margin-bottom: 2px;
 }
 .flex-gallery {
-  
+  display: flex;
+  justify-content: space-evenly;
 }
  .flex-gallery img {
   height: 30px;
 }
+
