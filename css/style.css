@@ -56,6 +56,18 @@
   background-color: white; /* Change background to white on hover */
   color: black; /* Change text color to black on hover */
 }
+
+
+#features {
+  margin-top: 5px;
+}
+div h3.fs-2 {
+  text-align: left;
+}
+div p {
+  text-align: left;
+}
+
 .puppy-quote {
   display: flex;
   flex-direction: column;
@@ -74,8 +86,17 @@
 .flex-gallery {
   display: flex;
   justify-content: space-evenly;
+  margin-bottom: -55px;
 }
  .flex-gallery img {
-  height: 30px;
+ height: 30px;
 }
 
+.container {
+  text-align: center;
+  padding-top: 50px;
+}
+
+.container h1 {
+  font-size: 3.5em;
+}
