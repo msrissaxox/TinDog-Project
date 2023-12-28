@@ -25,6 +25,8 @@ body {
   }
 }
 
+.gradient-background {
+  margin-bottom: 0px;
 }
 
 .top-section {
@@ -107,15 +109,18 @@ div p {
 }
 
 .container {
-  text-align: center;
+  text-align: left;
   padding-top: 50px;
 }
 
 .container h1 {
   font-size: 3.5em;
+  text-align: center;
 }
 
 .footer-end .container {
 margin-bottom: 0;
 text-align: left;
 }
+
+
