@@ -71,6 +71,9 @@ body {
 #features {
   margin-top: 5px;
 }
+.plan {
+  text-align: center;
+}
 div h3.fs-2 {
   text-align: left;
 }
