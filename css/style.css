@@ -65,7 +65,9 @@ body {
   color: black; /* Change text color to black on hover */
 }
 
-
+.puppy-quote {
+  text-align: center;
+}
 #features {
   margin-top: 5px;
 }
